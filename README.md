@@ -13,7 +13,7 @@ Built with Python, scikit-learn, and Streamlit.
 - Model performance comparison in sidebar
 
 ## Live Demo
-[Click here to use the app](#) ← update after deployment
+[Click here to use the app](https://taimoorasad01-cancer-predictor-app-app-4tkqpr.streamlit.app/)
 
 ## Tech Stack
 - Python 3.13
